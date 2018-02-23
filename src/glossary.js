@@ -49,7 +49,7 @@ export default new Glossary({
         to be part of the next <TooltipTerm name="version">version</TooltipTerm>.
       </p>
       <p>
-        By this you are able to group changes into seperate versions, e.g. by
+        By this you are able to group changes into separate versions, e.g. by
         feature or topic.
       </p>
     </Fragment>

@@ -163,7 +163,7 @@ const versioningInGitChapter = createChapter('Versioning in Git', {
               <Fragment>
                 Commit{' '}
                 <VisualisationCommitReference vis={this.vis} commit={data} />{' '}
-                was revereted successfully.
+                was reverted successfully.
               </Fragment>
             ),
             action: revertCommit,

@@ -51,7 +51,7 @@ const versioningOfFilesChapter = createChapter('Versioning of Files', {
         () => (
           <Fragment>
             Well done. You added a version database which is able to store and
-            restore all the versions of your file even when accidentially
+            restore all the versions of your file even when accidentally
             deleted.
           </Fragment>
         ),

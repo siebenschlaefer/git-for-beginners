@@ -14,7 +14,7 @@ const workingInATeamChapter = createChapter('Working in a Team', {
   sections: [
     new ChapterText(() => (
       <Fragment>
-        Working on a project usally means working in a team. This means we need
+        Working on a project usually means working in a team. This means we need
         to exchange our files, for example by using a{' '}
         <Tooltip name="cloud">cloud</Tooltip>. Let’s take a closer look at a
         project e.g. with one file and two users.
@@ -28,7 +28,7 @@ const workingInATeamChapter = createChapter('Working in a Team', {
     )),
     new ChapterText(() => (
       <Fragment>
-        Once the file beeing uploaded a second user B wants to work on the file,
+        Once the file being uploaded a second user B wants to work on the file,
         too. They download the file, add some changes and upload the file again.
       </Fragment>
     )),

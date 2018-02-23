@@ -19,7 +19,7 @@ const introductionChapter = createChapter('Introduction', {
     new ChapterText(() => (
       <Fragment>
         Although lots of backups are created and files are stored in clouds data
-        is lost frequently because you may have accidentily deleted an old file
+        is lost frequently because you may have accidentally deleted an old file
         or overwritten a file a colleague had changed a few minutes ago.<br />
         <em>
           Regardless how hard we work on file name conventions and how many
@@ -45,7 +45,7 @@ const introductionChapter = createChapter('Introduction', {
       ),
       { skip: true },
     ),
-    new ChapterText(() => 'All set? Then let‘s start with the basics …'),
+    new ChapterText(() => 'All set? Then let’s start with the basics …'),
   ],
 });
 

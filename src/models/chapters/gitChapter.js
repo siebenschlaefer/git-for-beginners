@@ -59,7 +59,7 @@ const gitChapter = createChapter('Introducing Git', {
     new ChapterText(() => 'Let’s take a look at the different parts of Git.'),
     new ChapterText(() => (
       <Fragment>
-        First, there is the <strong>working directory</strong>. It‘s the folder
+        First, there is the <strong>working directory</strong>. It’s the folder
         on your computer where your project is located in, where you modify, add
         or delete files.
       </Fragment>
@@ -70,7 +70,7 @@ const gitChapter = createChapter('Introducing Git', {
         it’s not about showing something to others. Instead you can use the
         staging area to collect changes in the project that you want to store in
         the next version. By this you are able to group changes in your files
-        into seperate versions, e.g. by feature or topic.
+        into separate versions, e.g. by feature or topic.
       </Fragment>
     )),
     new ChapterText(() => (

@@ -41,7 +41,7 @@ const sandboxChapter = createChapter('Git Sandbox', {
           <Fragment>
             This is the end of your journey through Git. You just learned the
             basics about versioning and Git, the console, how to do versioning
-            in a team and how to use all these concepts together. Isn‘t that
+            in a team and how to use all these concepts together. Isn’t that
             amazing? I hope it was easy to understand and you liked it!
           </Fragment>
         ),
@@ -52,7 +52,7 @@ const sandboxChapter = createChapter('Git Sandbox', {
           One more thing: the sandbox mode. Use the <code>tutorial</code>{' '}
           command to create new files or modify selected ones. Use the{' '}
           <code>git</code> command to stage files, create commits or branches
-          and merge branches together. Don‘t forget (and I can‘t stress this
+          and merge branches together. Don’t forget (and I can’t stress this
           often enough):
         </Fragment>
       )),

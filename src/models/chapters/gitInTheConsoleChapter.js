@@ -132,7 +132,7 @@ const gitInTheConsoleChapter = createChapter('Git in the Console', {
       new ChapterText(
         () => (
           <Fragment>
-            Let‘s look at the final topic and see what else Git can do for you.
+            Let’s look at the final topic and see what else Git can do for you.
           </Fragment>
         ),
         { skip: true },

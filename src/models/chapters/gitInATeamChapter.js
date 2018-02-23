@@ -26,7 +26,7 @@ const gitInATeamChapter = createChapter('Git in a Team', {
         <code>new-feature</code>. By now new commits are still added to the{' '}
         <code>master</code> branch because our new branch is not active yet. To
         change that we need to activate <code>new-feature</code>.{' '}
-        <em>It‘s called checking out a branch.</em>
+        <em>It’s called checking out a branch.</em>
       </Fragment>
     )),
     new ChapterText(() => (
@@ -43,7 +43,7 @@ const gitInATeamChapter = createChapter('Git in a Team', {
         <code>new-feature</code> into the now active <code>master</code> branch.
       </Fragment>
     )),
-    new ChapterText(() => 'Not difficult, right? Let‘s get it right now …'),
+    new ChapterText(() => 'Not difficult, right? Let’s get it right now …'),
   ],
   get vis() {
     return this.parent.vis;
